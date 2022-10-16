@@ -16,7 +16,7 @@ export default function Home() {
             <p className=" text-6xl md:text-8xl  ">Innocent Masuki</p>
             <p className="md:text-xl mb-20 pb-8 ">
               <span className="font-bold">Freelancer</span>,
-              <span className="font-bold">Web</span> and{" "}
+              <span className="font-bold"> Web</span> and{" "}
               <span className="font-bold">Mobile</span> developer.
             </p>
             <Button title={"My Works"} link={"/works"} />
